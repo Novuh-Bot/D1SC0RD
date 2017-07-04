@@ -1,0 +1,28 @@
+{
+  "name": "d1sc0rd",
+  "version": "0.0.1",
+  "description": "1337 bot for Discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mod-Bot/D1SC0RD.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "discord"
+  ],
+  "author": "OGNovuh#0014",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mod-Bot/D1SC0RD/issues"
+  },
+  "homepage": "https://github.com/Mod-Bot/D1SC0RD#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "djs-collection-persistent": "^0.1.3"
+  }
+}
